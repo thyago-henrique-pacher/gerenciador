@@ -1,0 +1,25 @@
+/* 
+    Document   : geral.css
+    Created on : 13/05/2013, 16:16:37
+    Author     : ThyagoHenrique
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+body{
+    font-family: arial;
+    background: greenyellow
+}
+
+#conteudo { 
+    width: 800px;
+    height: 600px;
+    margin: auto;
+}
+
+#rodape {
+    position:relative;
+    bottom:0px;
+    width:50%;
+    margin: auto;
+}
